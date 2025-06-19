@@ -1,3 +1,3 @@
 # Tejas-demo
-my first on repo..
+my first own repo..
 Author-Tejas Daphal
